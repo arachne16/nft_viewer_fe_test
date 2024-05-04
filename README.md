@@ -38,6 +38,8 @@ or if you are using Yarn:
 `yarn dev`
 Open http://localhost:5173 to view it in the browser.
 
+(You can use the following EOS account names to test: `womplayextra`, `wombatmaster`, `wombatpromo1`)
+
 #### Testing the Application
 
 To test the application, use:
