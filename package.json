@@ -15,7 +15,7 @@
     }
   },
   "scripts": {
-    "dev": "vite --host 192.168.118.221",
+    "dev": "vite",
     "test": "jest --env=jsdom",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
